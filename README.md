@@ -2,8 +2,6 @@
 
 Este es un proyecto de ciencia de datos donde realizo un análisis exploratorio de datos (EDA) sobre el dataset del Titanic, uno de los conjuntos de datos más conocidos para comenzar a trabajar con pandas, matplotlib y seaborn.
 
-Proyecto realizado como parte de mi proceso de estudio autodidacta en ciencia de datos.
-
 ---
 
 ## Objetivos
@@ -27,5 +25,33 @@ Proyecto realizado como parte de mi proceso de estudio autodidacta en ciencia de
 
 ---
 
-## Estructura del repositorio
+## Cómo usar este proyecto
 
+1. Clonar el repositorio o descarguelo como archivo ZIP.
+2. Abra el archivo `notebooks/titanic_EDA.ipynb` con Google Colab o Jupyter.
+3. Asegúrese de tener el archivo `titanic.csv` en la carpeta `data/`, o modifique la ruta en el notebook si es necesario.
+4. Ejecute celda por celda y explore el análisis.
+
+---
+
+## Resultado esperado
+
+El análisis explora patrones y relaciones en el dataset, mediante visualizaciones como:
+
+- Distribución de edades
+- Relación entre sexo y supervivencia
+- Supervivencia por clase
+- Mapa de calor de correlaciones
+
+---
+
+## Contacto
+
+Contacto: [thomas20902@outlook.com]
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT.  
+El dataset original pertenece a: https://www.kaggle.com/c/titanic
